@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 230" width="1200" height="230" role="img" aria-label="Maitreya Sapariya">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0f2b3d"/>
+      <stop offset="1" stop-color="#1f7a8c"/>
+    </linearGradient>
+  </defs>
+
+  <!-- back wave, lighter and offset -->
+  <path fill="url(#bg)" opacity="0.35"
+        d="M0,0 H1200 V185 C1000,145 800,225 600,185 C400,145 200,225 0,185 Z">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite"
+      values="M0,0 H1200 V185 C1000,145 800,225 600,185 C400,145 200,225 0,185 Z;
+              M0,0 H1200 V185 C1000,225 800,145 600,185 C400,225 200,145 0,185 Z;
+              M0,0 H1200 V185 C1000,145 800,225 600,185 C400,145 200,225 0,185 Z"/>
+  </path>
+
+  <!-- main wave -->
+  <path fill="url(#bg)"
+        d="M0,0 H1200 V165 C1000,205 800,125 600,165 C400,205 200,125 0,165 Z">
+    <animate attributeName="d" dur="7s" repeatCount="indefinite"
+      values="M0,0 H1200 V165 C1000,205 800,125 600,165 C400,205 200,125 0,165 Z;
+              M0,0 H1200 V165 C1000,125 800,205 600,165 C400,125 200,205 0,165 Z;
+              M0,0 H1200 V165 C1000,205 800,125 600,165 C400,205 200,125 0,165 Z"/>
+  </path>
+
+  <g font-family="'Segoe UI', Inter, Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="600" y="88" font-size="54" font-weight="700" fill="#ffffff" letter-spacing="1">Maitreya Sapariya</text>
+    <text x="600" y="128" font-size="20" fill="#cdeef3" letter-spacing="0.5">Human-centred, explainable &amp; accessible AI  |  Production AI engineering</text>
+  </g>
+</svg>
