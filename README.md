@@ -84,14 +84,6 @@ Peer reviewer for IJMADA (2026)
 - Solo-travelled Finland, Sweden, Norway, Latvia and Estonia
 - I keep every souvenir, every bill and every small memory from those trips, including the sticky note a stranger at Helsinki airport wrote my train directions on
 
-## Contributions, eaten daily 🐍
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/stiFFLer-codes/stiFFLer-codes/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/stiFFLer-codes/stiFFLer-codes/output/github-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/stiFFLer-codes/stiFFLer-codes/output/github-snake.svg" />
-</picture>
-
 <p align="center">
   <img src="./assets/footer.svg" width="100%" alt="" />
 </p>
