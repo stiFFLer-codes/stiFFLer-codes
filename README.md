@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2b3d,100:1f7a8c&height=190&section=header&text=Maitreya%20Sapariya&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Human-centred%20%26%20explainable%20AI%20%7C%20Data-intensive%20systems&descSize=16&descAlignY=58&animation=fadeIn" width="100%" alt="Maitreya Sapariya" />
+  <img src="./assets/banner.svg" width="100%" alt="Maitreya Sapariya" />
 </p>
 
 <p align="center">
@@ -19,17 +19,16 @@
 
 I build AI systems for people who will never read a confusion matrix.
 
-My research keeps circling one question: when a model is uncertain, what should it say, to whom, and what should it hold back? I work on explainability for non-expert users, with a focus on clinical AI in low-resource Indian settings.
+My research keeps circling one question: when a model is uncertain, what should it say, to whom, and what should it hold back? I work on explainability and accessibility for non-expert users, with a focus on clinical AI in low-resource Indian settings.
 
 By day I ship production AI at **Crest Infosystems** in Surat, India: document classification pipelines, RAG assistants on AWS, and agent workflows. By night I write papers about the same kinds of problems.
 
 ## Right now
 
-- 🔭 Shipping production AI as a Software Engineer (AI & Data Engineering) at Crest Infosystems
-- 📄 My paper on fragmented chat reconstruction (CARTA) is forthcoming in **IJMADA**
-- 🧪 **Three Voices**, a maternal-health risk alarm study co-authored with a clinician, is submitted to arXiv
-- 🎤 Just presented a position talk at **Academic Mindtrek 2026** (Tampere, Finland), live and remote
-- 🌱 Learning: whatever the next production bug teaches me
+- Shipping production AI as a Software Engineer (AI & Data Engineering) at Crest Infosystems
+- My paper on fragmented chat reconstruction (CARTA) is forthcoming in **IJMADA**
+- **Three Voices**, a maternal-health risk alarm study co-authored with a clinician, is submitted to arXiv
+- Just presented a position talk on AI and accessibility at **Academic Mindtrek 2026** (Tampere, Finland), live and remote
 
 ## Research
 
@@ -40,7 +39,7 @@ By day I ship production AI at **Crest Infosystems** in Surat, India: document c
 | **What AI should refuse to say, and to whom** <br> Sole author · position paper | Human-Centered AI and Accessibility workshop, Academic Mindtrek 2026 · accepted and presented |
 | **Prediction is not selection: a pre-registered study of design-time mechanism choice in author name disambiguation** <br> Sole author · [code](https://github.com/stiFFLer-codes/ADS-Cascade) | Working paper |
 
-📝 Peer reviewer for IJMADA (2026)
+Peer reviewer for IJMADA (2026)
 
 ## Things I've built
 
@@ -81,9 +80,9 @@ By day I ship production AI at **Crest Infosystems** in Surat, India: document c
 
 ## Off the screen
 
-- 🇫🇮 Jyväskylä Summer School 2025 (Machine Learning & Stochastic Control) and the COG1 course in 2026, University of Jyväskylä
-- 🎒 Solo-travelled Finland, Sweden, Norway, Latvia and Estonia in 15 days
-- 🧭 Still keep the sticky note a stranger at Helsinki airport wrote my train directions on
+- Jyväskylä Summer School 2025 (Machine Learning & Stochastic Control) and 2026 (COG1, AI and accessibility), University of Jyväskylä
+- Solo-travelled Finland, Sweden, Norway, Latvia and Estonia
+- I keep every souvenir, every bill and every small memory from those trips, including the sticky note a stranger at Helsinki airport wrote my train directions on
 
 ## Contributions, eaten daily 🐍
 
@@ -94,5 +93,5 @@ By day I ship production AI at **Crest Infosystems** in Surat, India: document c
 </picture>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2b3d,100:1f7a8c&height=110&section=footer" width="100%" alt="" />
+  <img src="./assets/footer.svg" width="100%" alt="" />
 </p>
