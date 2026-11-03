@@ -21,7 +21,7 @@ I build AI systems for people who will never read a confusion matrix.
 
 My research keeps circling one question: when a model is uncertain, what should it say, to whom, and what should it hold back? I work on explainability and accessibility for non-expert users, with a focus on clinical AI in low-resource Indian settings.
 
-By day I ship production AI at **Crest Infosystems** in Surat, India: document classification pipelines, RAG assistants on AWS, and agent workflows. By night I write papers about the same kinds of problems.
+By day I ship production AI at **Crest Infosystems**: document classification pipelines, RAG assistants on AWS, and agent workflows. By night I write papers about the same kinds of problems.
 
 ## Right now
 
