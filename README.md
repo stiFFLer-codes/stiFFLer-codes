@@ -37,7 +37,7 @@ By day I ship production AI at **Crest Infosystems**: document classification pi
 | **When Chats Split Apart: Formalizing Temporal Communication Fragmentation and the CARTA Reconstruction Framework** <br> Sole author · [code](https://github.com/stiFFLer-codes/champ-pipeline) | International Journal of Management and Data Analytics (IJMADA), Vol. 6, Issue 1, 2026, pp. 449–470 · published, open access (CC BY 4.0) · [DOI: 10.68485/ijmada.20266168](https://doi.org/10.68485/ijmada.20266168) |
 | **Three Voices: Uncertainty-Gated Rendering of a Maternal-Health Risk Alarm for Mothers, Community Health Workers, and Clinicians** <br> with Aditi Patil · [code](https://github.com/stiFFLer-codes/three-voices) | arXiv preprint · submitted |
 | **What AI should refuse to say, and to whom** <br> Sole author · position paper | Human-Centered AI and Accessibility workshop, Academic Mindtrek 2026 · accepted and presented |
-| **Prediction is not selection: a pre-registered study of design-time mechanism choice in author name disambiguation** <br> Sole author · [code](https://github.com/stiFFLer-codes/ADS-Cascade) | Working paper |
+| **Prediction is not selection: a pre-registered study of design-time mechanism choice in author name disambiguation** <br> Sole author · [code](https://github.com/stiFFLer-codes/ADS-Cascade) | Zenodo preprint (v2.0.0) · pre-registered study on 7 public datasets · [DOI: 10.5281/zenodo.24184394](https://doi.org/10.5281/zenodo.24184394) |
 
 Peer reviewer for IJMADA (2026)
 
